@@ -10,7 +10,7 @@ Includes:
 
 ```bash
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Armen Gevorgyan
 

@@ -1,4 +1,11 @@
 #!/bin/bash
+
+# Author: Armen Gevorgyan
+# Project: Nginx Rescue Script
+# Description: Script to install, fix permissions, and restore nginx service
+# Date: 2026
+
+
 set -euo pipefail
 
 if [ "$(id -u)" -ne 0 ]; then

@@ -8,9 +8,10 @@ Includes:
 
 ---
 
+## 👨‍💻 Author
+
 ```bash
 
-## 👨‍💻 Author
 
 Armen Gevorgyan
 

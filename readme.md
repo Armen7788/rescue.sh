@@ -235,5 +235,12 @@ Armen Gevorgyan
 GitHub: https://github.com/Armen7788
 
 ```
+---
 
+```bash
 
+# 📸 Demo
+
+![Demo](demo.png)
+
+```

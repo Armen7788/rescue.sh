@@ -3,7 +3,7 @@
 # Author: Armen Gevorgyan
 # Project: Nginx Rescue Script
 # Description: Script to install, fix permissions, and restore nginx service
-# Date: 24.02.2026
+# Date: 24.02.20266
 
 
 set -euo pipefail

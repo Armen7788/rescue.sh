@@ -1,4 +1,4 @@
-# 🛟 Nginx Rescue Script
+# 🛟 Nginx Rescue 1
 
 Bash script that automatically installs, fixes, and restores the Nginx web server ⚙️
 
